@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable-v24/ic_launcher_career_foreground.xml" value="0.194" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.194" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/background_splash.xml" value="0.1945" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/dialog_bg.xml" value="0.2115" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/ic_add.xml" value="0.1945" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/ic_answer.xml" value="0.1945" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/ic_launcher_background.xml" value="0.194" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/ic_launcher_career_background.xml" value="0.194" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/ic_launcher_career_foreground.xml" value="0.194" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/drawable/ic_login.xml" value="0.1945" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/font/baloo.xml" value="0.20833333333333334" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/activity_join.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/activity_post_question.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/activity_solution.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/activity_verification.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/bottomsheetlayout2.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/bottosheetlayout.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/fragment_answer.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/fragment_follow.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/fragment_groups.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/fragment_notofication.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/header.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/tool_bar.xml" value="0.17192982456140352" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/layout/toolbar.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/menu/side_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/CareerBuddies/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1945" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

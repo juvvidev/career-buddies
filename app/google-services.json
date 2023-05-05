@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159434523605",
+    "project_id": "career-buddies",
+    "storage_bucket": "career-buddies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159434523605:android:9522892a22c52234f6f35c",
+        "android_client_info": {
+          "package_name": "com.juvvi.careerbuddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159434523605-hqc00r1e09ro921nhli1kugkh6nktt7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juvvi.careerbuddies",
+            "certificate_hash": "34fa869ae7314d116c8099681c8862513cd92dae"
+          }
+        },
+        {
+          "client_id": "159434523605-nndn2f8fk0cgguo3bvupegqapl9fnrl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMTKt3NratuJUQnw8rrkEaw_9UvKIbOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159434523605-nndn2f8fk0cgguo3bvupegqapl9fnrl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/follow"
+        android:title="Follow"
+        android:icon="@drawable/ic_follow"/>
+
+    <item android:id="@+id/answers"
+        android:title="Answers"
+        android:icon="@drawable/ic_answer"/>
+
+    <item android:id="@+id/groups"
+        android:title="Groups"
+        android:icon="@drawable/ic_group"/>
+
+    <item android:id="@+id/notification"
+        android:title="Notifications"
+        android:icon="@drawable/ic_notification"/>
+</menu>

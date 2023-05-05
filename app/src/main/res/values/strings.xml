@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Career Buddies</string>
+    <string name="welcome">Welcome</string>
+    <string name="verify">Verification</string>
+    <string name="caption">A place to share knowledge and better \n understand the world</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
